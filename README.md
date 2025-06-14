@@ -7,8 +7,11 @@ The project includes a dehazing module to enhance image clarity in foggy or low-
 
 🧠 Key Objectives
 🏚️ Detect property damage by comparing pre- and post-disaster images.
+
 🌫️ Improve image quality using dehazing techniques.
+
 📊 Provide automated visual analysis for disaster management and response teams.
+
 🔧 Enable easy extension for future ML or deep learning-based enhancements.
 
 ✅ How It Works
